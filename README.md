@@ -312,7 +312,7 @@ At first glance it is difficult to spot the differences, but there a few changes
 
 **Advantages**
 
-One of the main pros to refactoring is that it helps the code run faster (see below for run times of refactored code). Compared to the original code which ran in approximate 1 second, the refactored code ran in 0.25 seconds (approximately 5x faster). Another advantage is that the design is easier to understand. Even though much of the code wasn't changed when refactored, the addition of the output arrays: tickerVolumes, tickerStartingPrices and tickerEndingPrices, makes the code more comprehensible. Last, the refactored code is able to handle a larger dataset (thousands of stocks vs. a dozen stocks). 
+One of the main pros to refactoring is that it helps the code run faster (see below for run times of refactored code). Compared to the original code which ran in about 1 second, the refactored code ran in about 0.25 seconds (approximately 5x faster). Another advantage is that the design is easier to understand. Even though much of the code wasn't changed when refactored, the addition of the output arrays: tickerVolumes, tickerStartingPrices and tickerEndingPrices, makes the code more comprehensible. Last, the refactored code is able to handle a larger dataset (thousands of stocks vs. a dozen stocks). 
 
 ![VBA_Challenge_2017](VBA_Challenge_2017.png)
 ![VBA_Challenge_2018](VBA_Challenge_2018.png)
