@@ -340,3 +340,7 @@ Ultimately, refactoring the original code for finding the yearly return for gree
 [Arrays](https://learn.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/arrays/)
 
 [Conditional Formatting](https://learn.microsoft.com/en-us/office/vba/api/Excel.FormatCondition)
+
+## Link to Starter Code
+
+[VBA_Challenge](VBA_Challenge.vbs)
