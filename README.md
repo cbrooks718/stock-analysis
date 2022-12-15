@@ -315,10 +315,12 @@ At first glance it is difficult to spot the differences, but there a few changes
 One of the main pros to refactoring is that it helps the code run faster (see below for run times of refactored code vs. original code). Compared to the original code which ran in about 1 second, the refactored code ran in about 0.25 seconds (approximately 5x faster). Another advantage is that the design is easier to understand. Even though much of the code wasn't changed when refactored, the addition of the output arrays: tickerVolumes, tickerStartingPrices and tickerEndingPrices, makes the code more comprehensible. Last, the refactored code is able to handle a larger dataset (thousands of stocks vs. a dozen stocks). 
 
 **Original Run Times**
+
 ![Original_Code_2017](Original_Code_2017.png)
 ![Original_Code_2018](Original_Code_2018.png)
 
 **Refactored Run Times**
+
 ![VBA_Challenge_2017](VBA_Challenge_2017.png)
 ![VBA_Challenge_2018](VBA_Challenge_2018.png)
 
